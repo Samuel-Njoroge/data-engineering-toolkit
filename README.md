@@ -1,4 +1,4 @@
-# Data Engineering Worflow.
+# Data Engineering Workflow.
 
 ### 1. Data Loading
 [Load data](https://github.com/Samuel-Njoroge/data-engineering-toolkit/blob/main/scripts/data_loading.py) - A simple script to load your `CSV` file into a `DataFrame`.
